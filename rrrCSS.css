@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+}
+
+.head {
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav {
+    justify-content: space-around;
+}
+
+.crossline {
+    display: flex;
+    align-items: center;
+}
+
+.left-line {
+    width: 50%;
+    height: 2px;
+    background-color: red;
+}
+
+.right-line {
+    width: 50%;
+    height: 2px;
+    background-color: red;
+}
+
+li img {
+    width: 200px;
+    height: 100px;
+}
+
+th {
+    background-color: slateblue;
+    padding: 5px;
+}
+
+td {
+    padding: 10px;
+    background-color: royalblue;
+}
+
+.chet {
+    background-color: brown;
+}
